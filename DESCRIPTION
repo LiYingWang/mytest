@@ -14,3 +14,5 @@ Suggests:
     testthat
 Imports: 
     ggplot2
+URL: https://github.com/LiYingWang/mytest
+BugReports: https://github.com/LiYingWang/mytest/issues
